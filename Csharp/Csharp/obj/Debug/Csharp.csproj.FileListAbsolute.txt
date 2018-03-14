@@ -1,0 +1,6 @@
+C:\Users\Yuhan Chen\source\repos\Csharp\Csharp\bin\Debug\Csharp.exe.config
+C:\Users\Yuhan Chen\source\repos\Csharp\Csharp\bin\Debug\Csharp.exe
+C:\Users\Yuhan Chen\source\repos\Csharp\Csharp\bin\Debug\Csharp.pdb
+C:\Users\Yuhan Chen\source\repos\Csharp\Csharp\obj\Debug\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Yuhan Chen\source\repos\Csharp\Csharp\obj\Debug\Csharp.exe
+C:\Users\Yuhan Chen\source\repos\Csharp\Csharp\obj\Debug\Csharp.pdb
